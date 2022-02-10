@@ -116,12 +116,12 @@ a:hover{
 .top-container {
   background-color: #96CEB4;
   position: relative;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .middle-container {
   margin: 100px 0;
-  padding: 60px ;
+  padding: 20px ;
 }
 
 .bottom-container {
